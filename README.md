@@ -26,7 +26,7 @@ Answer the following questions based on your understanding of the installation a
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
 
 7. File and Folder Management:
-   - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
+   - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between   different files and directories efficiently?
 
 8. Settings and Preferences:
    - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
